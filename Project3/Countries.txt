@@ -1,0 +1,214 @@
+51,160
+Turkey,Ankara,34.963745,33.243322
+Iran,Tehran,29.427908,51.688046
+Egypt,Cairo,24.820553,26.802498
+Algeria,Algiers,28.033886,1.659626
+India,New Delhi,20.593684,78.96288
+Australia,Canberra,-25.274398,133.775136
+China,Beijing,35.86166,104.195397
+Kazakhstan,Astana,48.019573,66.923684
+Sweden,Stockholm,60.128161,12.643501
+Finland,Helsinki,61.92411,22.748151
+Angola,Luanda,-11.202692,14.873887
+Libya,Tripoli,26.3351,15.228331
+Russia,Moskva,61.52401,105.318756
+Brazil,Brasilia,-14.235004,-51.92528
+Argentina,Buenos Aires,-35.416097,-66.616672
+Mexico,Mexico,23.634501,-102.552784
+Canada,Ottawa,56.130366,-106.346771
+United States,Washington DC,37.09024,-95.712891
+Colombia,Bogota,4.570868,-74.297333
+Ecuador,Quito,-1.831239,-78.183406
+Botswana,Gaborone,-20.328474,19.684866
+France,Paris,42.227638,2.213749
+Namibia,Windhoek,-19.95764,14.49041
+Pakistan,Islamabad,23.375321,62.345116
+Sudan,Khartoum,12.862807,30.217636
+Niger,Niamey,17.607789,8.081666
+Thailand,Bangkok,13.870032,92.992541
+Burundi,Bujumbura,-5.373056,27.918886 
+Ukraine,Kiev (Rus),46.379433,29.16558
+Poland,Warsaw,48.919438,18.145136
+Germany,Berlin,48.165691,9.451526
+Chad,N'Djamena,15.454166,14.732207
+Ethiopia,Addis Ababa,9.145,36.489673
+Zambia,Lusaka,-16.133897,26.849332
+Afghanistan,Kabul,28.93911,60.709953
+Saudi Arabia,Riyadh,20.885942,40.079162
+Peru,Lima,-9.189967,-75.015152
+Greenland,Nuuk,71.706936,-42.604303
+Iceland,Reykjavik,64.963051,-19.020835
+Madagascar,Antananarivo,-18.766947,
+Mali,Bamako,17.570692,-3.996166
+Belarus,Minsk,49.709807,24.953389
+Spain,Madrid,36.463667,-4.74922
+South Africa,Pretoria,-27.559482,22.937506
+Venezuela,Caracas,6.42375,-66.58973
+Mauritania,Nouakchott,21.00789,-10.940835
+Turkmenistan,Ashgabat,34.969719,54.556278 
+Iraq,Baghdad,30.223191,39.679291
+Somalia,Mogadishu,2.152149,40.199616
+Yemen,Sana'a,12.552727,44.516388
+Nablus,khalil,40,40
+Turkey,Germany
+Turkey,Ukraine 
+Turkey,Kazakhstan
+Turkey,Brazil  
+Iran,India
+Iran,Iraq
+Iran,Ethiopia 
+Iran,Ukraine 
+Egypt,Libya
+Egypt,Chad
+Egypt,Niger
+Algeria,Angola
+Algeria,Namibia
+Algeria,Ethipia
+Algeria,Mauritania
+India,China
+India,Thailand
+India,Kazakhstan
+India,Russia
+India,Mongolia
+Australia,Madagascar
+Australia,India
+China,Iran
+China,Afghanistan
+China,Pakistan
+China,Madagascar
+Kazakhstan,Mongolia
+Sweden,Finland
+Sweden,Poland
+Sweden,Germany
+Finland,Poland
+Finland,Ukraine
+Finland,Sweden
+Finland,Russia
+Angola,South Africa
+Angola,Zambia
+Angola,Nigeria
+Angola,Namibia
+Libya,Egypt
+Libya,Algeria
+Libya,Iraq
+Libya,Saudi Arabia
+Libya,Nigeria
+Russia,Mongolia
+Russia,Lazakhstan
+Russia,China
+Russia,India
+Russia,Austrlia
+Russia,India
+Brazil,Argentina
+Brazil,Mauritania
+Brazil,Colombia
+Brazil,Ecuador
+Brazil,Peru
+Argentina,Brazil
+Argentina,Mexico
+Argentina,Colombia
+Argentina,Peru
+Mexico,Canada
+Mexico,Greenland
+Mexico,Ecuador
+Mexico,Colombia
+Canada,Greenland
+Canada,Sweden
+Canada,United States
+Canada,Mexico
+United States,Algeria
+United States,Canada
+United States,Mexico
+United States,Brazil
+United States,Greenland
+Colombia,Venezuela
+Colombia,Brazil
+Colombia,Peru
+Colombia,Argentina
+Colombia,Libya
+Ecuador,Brazil
+Ecuador,Peru
+Ecuador,Argentina
+Botswana,Angola
+Botswana,Namibia
+France,Spain
+France,Germany
+France,Finland
+France,Sweden
+Namibia,Botswana
+Namibia,Angola
+Namibia,South Africa
+Namibia,Zambia			
+Pakistan,Afghanistan
+Pakistan,Kazakhstan
+Pakistan,India
+Pakistan,Iran
+Sudan,Niger
+Sudan,Egypt
+Sudan,Chad
+Sudan,Libya
+Sudan,Algeria
+Niger,Sudan
+Niger,Algeria
+Niger,Egypt
+Thailand,China
+Thailand,India
+Thailand,Australia
+Thailand,Burundi
+Burundi,Mongolia
+Burundi,China
+Burundi,Pakistan
+Ukraine,Poland
+Ukraine,Kazakhstan
+Ukraine,Canada
+Ukraine,Greenland
+Ukraine,Russia
+Poland,Germany
+Poland,France
+Poland,Spain
+Germany,Spain
+Germany,France
+Germany,United States
+Chad,Libya
+Chad,Egypt		
+Chad,Algeria		
+Chad,Mauritania		
+Ethiopia,Sudan	
+Zambia,Angola
+Zambia,Egypt
+Afghanistan,Kazakhstan
+Afghanistan,India
+Saudi Arabia,Iran
+Saudi Arabia,Turkey
+Saudi Arabia,Libya
+Saudi Arabia,Sudan
+Peru,Brazil		
+Greenland,Canada
+Greenland,Iceland
+Greenland,Sweden
+Iceland,Sweden
+Iceland,Finland
+Madagascar,Australia
+Madagascar,Ethiopia
+Madagascar,India
+Mali,Niger
+Mali,Libya
+Belarus,Ukraine
+Spain,Germany
+Spain,Belarus
+Spain,France
+South Africa,Botswana
+South Africa,Egypt
+South Africa,Angola
+Botswana,Zambia	
+Venezuela,Brazil
+Mauritania,Mali
+Algeria,France
+Mauritania,Algeria
+Mauritania,Niger
+Turkmenistan,Afghan
+Turkmenistan,Iran
+Iraq,Iran
+Iraq,Turkmenistan
+Nablus,Russia
+
